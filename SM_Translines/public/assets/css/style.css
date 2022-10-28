@@ -51,6 +51,9 @@ img {
 .logo{
   max-width: 100px;
 }
+.logo{
+  max-width: 120px;
+}
 
 a {
   -webkit-transition: .5s;
