@@ -43,6 +43,9 @@ body {
   line-height: 1.8;
   font-size: 17px;
 }
+.homepage{
+  background-color: #3c0c70;
+}
 
 /* Default CSS Start */
 img {
@@ -277,7 +280,7 @@ h3 {
 }
 
 .navbar-area .main-nav .navbar .navbar-nav .nav-item a {
-  color: #2c2c2c;
+  color:white;
   text-transform: capitalize;
   padding: 5px 0;
   margin: 0 0 0 40px;
