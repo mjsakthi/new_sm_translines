@@ -1353,7 +1353,7 @@ h3 {
   height: 100%;
   top: 0;
   left: 0;
-  opacity: .85;
+  opacity: .90;
   z-index: -1;
 }
 
@@ -2651,7 +2651,7 @@ h3 {
 }
 
 .page-title.title-bg-1 {
-  background-image: url(../img/slide/slider\ 3.jpg);
+  background-image: url(../img/slide/l\ 1.jpg);
 }
 
 /* Page Title CSS End*/
@@ -2757,7 +2757,7 @@ h3 {
 /*---------- Service Page Two CSS Start ----------*/
 /* Page Title Start */
 .page-title.title-bg-2 {
-  background-image: url(../img/slide\ 2.jpg);
+  background-image: url(../img/slide/l\ 2.jpg);
 }
 
 /* Page Title End */
@@ -2976,7 +2976,7 @@ h3 {
 /*---------- Service Details CSS End ----------*/
 /*---------- Why Choose Page CSS Start ----------*/
 .page-title.title-bg-10 {
-  background-image: url(../img/page-bg/gallery_bg.jpeg);
+  background-image: url(../img/slide/l\ 3.jpg);
 }
 
 .choose-style-three .choose-card::before {
